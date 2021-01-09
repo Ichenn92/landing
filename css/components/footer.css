@@ -1,0 +1,17 @@
+.footer {
+  margin-top: 32px;
+  color: white;
+  padding: 56px 0;
+  background-color: #272626;
+}
+.footer i {
+  margin: 0 8px;
+  color: #00D980;
+  font-size: 32px;
+}
+.footer p {
+  margin-bottom: 0;
+  opacity: .7;
+}
+
+
